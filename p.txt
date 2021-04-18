@@ -1,0 +1,858 @@
+    1  dpkg --list | grep gcc
+    2  dpkg --list
+    3  sudo apt-get install python-numpy
+    4  sudo apt-get install python -numpy
+    5  sudo apt-get install python-numpy
+    6  sudo apt-get install numpy-python
+    7  sudo apt-get install python-pip
+    8  python
+    9  ls
+   10  cd /home
+   11  ls
+   12  cd ..
+   13  ls
+   14  sudo apt-get install python-pip
+   15  cd ~
+   16  file /sbin/init/
+   17  file /sbin/init
+   18  sudo apt-get install openjdk-7-jdk
+   19  sudo apt-get install python-pip
+   20  sudo apt-get install python-numpy
+   21  sudo apt-get install kate
+   22  kate
+   23  system halt
+   24  locate home
+   25  ls
+   26  cd home
+   27  cd Home
+   28  cd ~
+   29  cd Music/
+   30  cd ..
+   31  ls
+   32  ls -a
+   33  cd rsr1994/
+   34  cd spark-1.3.0-bin-hdp2.4/
+   35  ./bin/spark
+   36  ./bin/pyspark
+   37  export SPARK_HOME=/home/rsr1994/spark-1.3.0-bin-hdp2.4
+   38  export PATH=$SPARK_HOME/bin:$PATH
+   39  pyspark
+   40  SPARK_HOME/conf
+   41  cp $SPARK_HOME/conf/log4j.properties.template $SPARK_HOME/conf/log4j.properties
+   42  ipython profile create spark
+   43  sudo apt-get install ipython
+   44  ipython profile create spark
+   45  locate /home/.ipython
+   46  find /Home/ipython
+   47  find /home/ipython
+   48  locate ipython
+   49  locate profile_spark
+   50  cd /home/rsr1994
+   51  cd .config
+   52  cd ipython/
+   53  cd profile_spark/
+   54  cd startup/
+   55  ls
+   56  python 00-pyspark-setup.py
+   57  gedit 00-pyspark-setup.py
+   58  SPARK_HOME
+   59  $SPARK_HOME
+   60  ls
+   61  cd spark-1.3.0-bin-hdp2.4/
+   62  pwd
+   63  ipython notebook --profile spark
+   64  sudo apt-get ipython-notebook
+   65  sudo apt-get install ipython-notebook
+   66  ipython notebook --profile spark
+   67  sudo apt-get install python-py4j
+   68  sudo apt-get install py4j
+   69  pyspark
+   70  spark
+   71  pyspark
+   72  cd ..
+   73  pyspark
+   74  cd rsr1994/
+   75  cd spark-1.3.0-bin-hdp2.4/
+   76  pyspark
+   77  ./bin/pyspark
+   78  cd spark-1.3.0-bin-hdp2.4/
+   79  ./bin/pyspark
+   80  quit
+   81  dpkg --list | grep idle
+   82  dpkg --list | locate idle
+   83  locate idle
+   84  df -Th
+   85  cd spark-1.3.0-bin-hdp2.4/
+   86  ./bin/pyspark
+   87  cd spark-1.3.0-bin-hdp2.4/
+   88  pyspark
+   89  ./bin/pyspark
+   90  ipython notebook --profile spark
+   91  dpkg --list | pthread
+   92  locate pthread.h
+   93  find pthread.h
+   94  ??
+   95  !
+   96  history
+   97  exit 
+   98  dpkg --list | grep gcc
+   99  locate pthread
+  100  ls a
+  101  ls
+  102  cd Documents/
+  103  cd C\ Programs/
+  104  make File
+  105  man fseek
+  106  make File
+  107  locate new
+  108  locate new | grep new 
+  109  getcwd
+  110  pwd
+  111  make File
+  112  ./File
+  113  cd Documents/
+  114  cd c p
+  115  ls
+  116  cd C Programs
+  117  ls -a
+  118  cd C Programs
+  119  cd C\ Programs/
+  120  sed
+  121  man sed
+  122  make File
+  123  ./File
+  124  make File
+  125  ./File
+  126  make File
+  127  ./File
+  128  make File
+  129  ./File
+  130  make File
+  131  ./File
+  132  make File
+  133  ./File
+  134  cd Documents/
+  135  cd C\ Programs/
+  136  make matrix
+  137  gcc matrix.c -o matrix -lpthread
+  138  ./matrix
+  139  cd Documents/
+  140  cd C\ Programs/
+  141  make File
+  142  ./File
+  143  make File
+  144  ./File
+  145  make File
+  146  ./File
+  147  make File
+  148  ./File
+  149  make File
+  150  ./File
+  151  make File
+  152  ./File
+  153  make File
+  154  ./File
+  155  make File
+  156  ./File
+  157  make File
+  158  ./File
+  159  make File
+  160  ./File
+  161  make File
+  162  ./File
+  163  make File
+  164  ./File
+  165  ipython notebook
+  166  cd Desktop/
+  167  java SimpleClient
+  168  cd Desktop
+  169  java SimpleServer
+  170  cd Desktop/
+  171  gcc -shared -fPIC -o xyz.c
+  172  make xyz.c
+  173  make xyz
+  174  gcc -shared -fPIC -o xyz.c
+  175  ./xyz
+  176  history
+  177  gcc -shared -o xyz.c
+  178  gcc -o xyz.c
+  179  gcc -o xyz xyz.c
+  180  gcc -shared -fPIC -o xyz xyz.c
+  181  su
+  182  sudo
+  183  su
+  184  su useradd hadoop
+  185  su
+  186  sudo apt-get install Emacs
+  187  useradd hadoop
+  188  sudo useradd Hadoop
+  189  passwd Hadoop
+  190  ssh-keygen -t rsa
+  191  cat ~/.ssh/id_rsa.pub >>~/.ssh/authorized_keys
+  192  sudo addgroup hadoop
+  193  sudo adduser --ingroup hadoop hduser
+  194  sudo apt-get install ssh
+  195  which ssh
+  196  which sshd
+  197  sudo apt-get install ssh
+  198  su hduser
+  199  sudo apt-get install ssh
+  200  cd Desktop/
+  201  sudo apt-get install openssh-7.1p2.tar.gz
+  202  sudo install openssh-7.1p2.tar.gz
+  203  python pip install mrjob
+  204  cd python27
+  205  find python27
+  206  sudo apt-get install python
+  207  dkkg --list | grep python
+  208  dpkg --list | grep python
+  209  dpkg --list | grep python2.7
+  210  sudo python install pip
+  211  sudo apt-get install python pip
+  212  sudo apt-get install python-pip
+  213  python-pip install mrjob
+  214  locate python-pip
+  215  locate python-pip
+  216  python-pip
+  217  python pip
+  218  locate python
+  219  dpkg --list | grep python
+  220  python -m pip install -U pip
+  221  cd /usr/bin/python
+  222  cd /usr
+  223  cd /bin
+  224  ls 
+  225  ls -a
+  226  ls -a | grep python
+  227  python get-pip.py
+  228  pip -v
+  229  pip --help
+  230  cd /lib
+  231  ls python2.7
+  232  ls -a | grep python
+  233  cd /python2.7
+  234  pip install numpy
+  235  pip install python-mrjob
+  236  pip install mrjob
+  237  cd Desktop/
+  238  python kk.py iris -q
+  239  python main.py iris -q
+  240  pip install mrjob.step
+  241  pip install mrjob
+  242  pip install mrjob --upgrade
+  243  python main.py iris -q
+  244  python main.py -r local iris -q
+  245  python main.py iris -q
+  246  python main.py -r local iris -q
+  247  python main.py iris -q
+  248  python main2.py iris -q
+  249  cd Desktop/
+  250  python main.py iris -q
+  251  cd Desktop/
+  252  python main.py iris -q
+  253  python main2.py iris -q
+  254  cd Desktop/
+  255  python main2.py iris -q
+  256  python main1.py iris -q
+  257  python main.py iris -q
+  258  cd Desktop
+  259  cd Hadoop/
+  260  python Main_script.py iris10 -q
+  261  python Main_script.py iris -q
+  262  cd ..
+  263  python main.py iris -q
+  264  clear
+  265  python main.py iris -q
+  266  python main.py iris -q > temp.txt
+  267  python main.py iris -q
+  268  sudo apt-get alien dpkg-dev debhelper build-essential
+  269  sudo dpkg -i HP-SLED-Commercial-15.2.10.51.rpm
+  270  sudo apt-get install alien
+  271  sudo alien HP-DR.rpm
+  272  sudo dpkg -i synaptics-touchpad.deb
+  273  cd /home/rsr1994/
+  274  cd /home/rsr1994/Desktop
+  275  cd Desktop/
+  276  cd Hadoop/
+  277  python Main_script.py iris -q
+  278  sudo apt-get install synaptiks
+  279  sudo apt-get install Synaptiks
+  280  python Main_script.py iris -q
+  281  sudo apt-get install synaptiks
+  282  sudo apt-get update
+  283  sudo apt-get install wget gdebi
+  284  sudo apt-get update kde-config-touchpad
+  285  sudo apt-get install kde-config-touchpad
+  286  python Main_script.py iris -q
+  287  python Main_script.py iris
+  288  python Main_script.py iris -q
+  289  python Main_script.py iris
+  290  cd ~
+  291  cd ..
+  292  locate error_log_map_reduce
+  293  find error_log_map_reduce
+  294  cd Desktop/
+  295  python main.py iris -q
+  296  vim main.py
+  297  vim main
+  298  sudo apt-get install vim 
+  299  vi main
+  300  cd Desktop/opt/
+  301  cd Desktop/Hadoop/
+  302  python Main_script.py iris -q
+  303  python Main_script.py iris2 -q
+  304  cd Desktop/
+  305  python main.py iris -q
+  306  cd Desktop/Hadoop/
+  307  python main_script.py iris2 -q
+  308  python Main_script.py iris2 -q
+  309  cd Desktop/
+  310  cd Hadoop/
+  311  python Main_script.py iris2 -q
+  312  sudo apt-get install python-pip
+  313  sudo apt-get install python-pip upgrade
+  314  sudo apt-get upgrade python-pip
+  315  pip install upgrade
+  316  sudo apt-get upgrade python-pip -U
+  317  sudo apt-get install python
+  318  sudo apt-get install python-mrjob
+  319  sudo apt-get install python-pickle
+  320  cd Desktop/
+  321  cd Hadoop
+  322  python Main_script.py iris2 -q
+  323  cd Desktop/Hadoop/
+  324  python Main_script.py iris2 -q
+  325  cd Desktop/Hadoop/
+  326  python Main_script.py iris2 -q
+  327  cd Desktop/
+  328  python main.py iris -q
+  329  cd BH(copy)
+  330  cd BH
+  331  ls -a
+  332  cd Desktop/
+  333  cd BH 2
+  334  cd Desktop/
+  335  cd new_BH/
+  336  python Main_script.py iris2 -q
+  337  cd Desktop/
+  338  cd new_BH/
+  339  python Main_script.py iris2 -q
+  340  dpkg --list | grep bin
+  341  history
+  342  locate zip | grep bin
+  343  locate zip | grep bin | grep zipnote
+  344  cd /home
+  345  history 
+  346  cd Desktop/
+  347  cd new_BH/
+  348  ls
+  349  python Main_script.py iris2 s -q
+  350  cd Desktop/
+  351  cd new_BH/
+  352  python Main_script glass.txt s -q
+  353  ls
+  354  python Main_script glass.txt s -q
+  355  python Main_script glass.txt s -q
+  356  python Main_script.py glass.txt s -q
+  357  cd Home
+  358  ls
+  359  cd Documents/
+  360  ls
+  361  cd C Programs
+  362  cd C\ Programs/
+  363  ls
+  364  make a.c
+  365  make a
+  366  make a
+  367  ./a
+  368  make a
+  369  cd Documents/
+  370  cd C\ Programs/
+  371  make 10360
+  372  ./10360
+  373  cd Home
+  374  ls
+  375  cd Documents/
+  376  cd C programs
+  377  cd C\ Programs/
+  378  make 10360.cpp
+  379  make 10360
+  380  ./10360.cpp
+  381  ./10360
+  382  sudo apt-get install cpp
+  383  sudo apt-get install firefox
+  384  ls
+  385  cd Downloads/
+  386  ls
+  387  rpm -i flash-plugin-11.2.202.626-release.i386.rpm 
+  388  rpm -ivh flash-plugin-11.2.202.626-release.i386.rpm 
+  389  sudo rpm -ivh flash-plugin-11.2.202.626-release.i386.rpm 
+  390  alien -ivh flash-plugin-11.2.202.626-release.i386.rpm 
+  391  alien -i flash-plugin-11.2.202.626-release.i386.rpm 
+  392  sudo apt-get install alien
+  393  alien -i flash-plugin-11.2.202.626-release.i386.rpm 
+  394  sudo alien -i flash-plugin-11.2.202.626-release.i386.rpm 
+  395  cd Desktop/
+  396  cd cpp
+  397  ls -a
+  398  make uva_231
+  399  ./uva_231 < in.txt > out.txt
+  400  make uva_481
+  401  ./uva_481 < in.txt > out.txt
+  402  make uva_481
+  403  ./uva_481 < in.txt > out.txt
+  404  make uva_481
+  405  cd Desktop/
+  406  cd cpp
+  407  make uva_481
+  408  ./uva_481 < in.txt > out.txt
+  409  make uva_481
+  410  ./uva_481 < in.txt > out.txt
+  411  cDDes
+  412  cd Desktop/
+  413  cd cpp
+  414  make uva_481.cpp
+  415  make uva_481
+  416  ./uva_481 < in.txt > out.txt
+  417  cd Desktop/
+  418  cd cpp
+  419  make uva_11790
+  420  make uva_11790.cpp
+  421  ls -a
+  422  make uva_11790
+  423  ./uva_11790 < in.txt
+  424  ./uva_11790
+  425  make uva_11790
+  426  ./uva_11790 < in.txt
+  427  make uva_11790
+  428  ./uva_11790 < in.txt
+  429  make uva_11790
+  430  ./uva_11790 < in.txt
+  431  make uva_11790
+  432  ./uva_11790 < in.txt
+  433  make uva_11790
+  434  ./uva_11790 < in.txt
+  435  make uva_11790
+  436  ./uva_11790 < in.txt
+  437  ./uva_11790 < in.txt > out.txt
+  438  cd Desktop/
+  439  cd cpp
+  440  make uva_11790
+  441  ./uva_11790 < in.txt > out.txt
+  442  make uva_11790
+  443  ./uva_11790 < in.txt > out.txt
+  444  make uva_11790
+  445  ./uva_11790 < in.txt > out.txt
+  446  make uva_11790
+  447  ./uva_11790 < in.txt > out.txt
+  448  make uva_11790
+  449  ./uva_11790 < in.txt > out.txt
+  450  make uva_11790
+  451  ./uva_11790 < in.txt > out.txt
+  452  make uva_11790
+  453  ./uva_11790 < in.txt > out.txt
+  454  make uva_11790
+  455  ./uva_11790 < in.txt > out.txt
+  456  make uva_11790
+  457  ./uva_11790 < in.txt > out.txt
+  458  cd Desktop/
+  459  cd cpp
+  460  make uva_11003
+  461  make uva_11003
+  462  ./uva_11003 < in.txt
+  463  make uva_11003
+  464  ./uva_11003 < in.txt
+  465  make uva_11003
+  466  ./uva_11003 < in.txt
+  467  ulimit -a
+  468  ulimit -s
+  469  cd Desktop/
+  470  cd cpp
+  471  make uva_166
+  472  ls -a
+  473  make uva_166
+  474  ./uva_166
+  475  make uva_166
+  476  ./uva_166
+  477  make uva_166
+  478  ./uva_166
+  479  make uva_166
+  480  ./uva_166
+  481  make uva_166
+  482  ./uva_166
+  483  make uva_166
+  484  ./uva_166
+  485  make uva_166
+  486  ./uva_166
+  487  make uva_166
+  488  ./uva_166
+  489  make uva_166
+  490  ./uva_166
+  491  make uva_166
+  492  ./uva_166
+  493  make uva_166
+  494  ./uva_166
+  495  make uva_166
+  496  ./uva_166
+  497  make uva_166
+  498  ./uva_166
+  499  make uva_166
+  500  make uva_167
+  501  ./uva_167
+  502  make uva_167
+  503  ./uva_167
+  504  make uva_167
+  505  ./uva_167
+  506  make uva_166
+  507  ./uva_166
+  508  make uva_166
+  509  ./uva_166
+  510  make uva_166
+  511  ./uva_166
+  512  make uva_166
+  513  ./uva_166
+  514  make uva_166
+  515  ./uva_166 < in.txt
+  516  make uva_166
+  517  ./uva_166 < in.txt
+  518  make uva_166
+  519  ./uva_166 < in.txt
+  520  make uva_166
+  521  ./uva_166 < in.txt
+  522  make uva_166
+  523  ./uva_166 < in.txt
+  524  make uva_166
+  525  ./uva_166 < in.txt
+  526  make uva_166
+  527  ./uva_166 < in.txt
+  528  cd Desktop/
+  529  ulimit -a
+  530  cd cpp
+  531  make uva_166
+  532  ./uva_166 < int.txt
+  533  ./uva_166 < in.txt
+  534  make uva_166
+  535  ./uva_166 < in.txt
+  536  make uva_166
+  537  ./uva_166 < in.txt
+  538  make uva_166
+  539  ./uva_166 < in.txt
+  540  make uva_166
+  541  ./uva_166 < in.txt
+  542  make uva_166
+  543  ./uva_166 < in.txt
+  544  make uva_166
+  545  ./uva_166 < in.txt
+  546  make uva_166
+  547  ./uva_166 < in.txt
+  548  make uva_166
+  549  ./uva_166 < in.txt
+  550  make uva_166
+  551  ./uva_166 < in.txt
+  552  cd Desktop/
+  553  cd cpp
+  554  make uva_166
+  555  ./uva_166 < in.txt
+  556  make uva_166
+  557  ./uva_166 < in.txt
+  558  cd Desktop/
+  559  cd cpp
+  560  make uva_11003_2
+  561  make uva_11003_2.cpp
+  562  make uva_11003_2
+  563  ulimit -a
+  564  make uva_11003_2
+  565  ./uva_11003_2
+  566  ./uva_11003_2 < in.txt
+  567  make uva_11003_2
+  568  ./uva_11003_2 < in.txt
+  569  make uva_11003_2
+  570  ./uva_11003_2 < in.txt
+  571  make uva_11003_2
+  572  ./uva_11003_2 < in.txt
+  573  make uva_11003_2
+  574  ./uva_11003_2 < in.txt
+  575  make uva_11003_2
+  576  ./uva_11003_2 < in.txt
+  577  make uva_11003_2
+  578  ./uva_11003_2 < in.txt
+  579  make uva_11003_2
+  580  ./uva_11003_2 < in.txt
+  581  make uva_11003_2
+  582  ./uva_11003_2 < in.txt
+  583  make uva_11003_2
+  584  ./uva_11003_2 < in.txt
+  585  make uva_11003_2
+  586  ./uva_11003_2 < in.txt
+  587  make uva_11003_2
+  588  ./uva_11003_2
+  589  make uva_11003_2
+  590  ./uva_11003_2 < in.txt
+  591  make uva_11003_2
+  592  ./uva_11003_2 < in.txt
+  593  make uva_11003_2
+  594  ./uva_11003_2 < in.txt
+  595  make uva_11003_2
+  596  cd Desktop/
+  597  cd cpp
+  598  make uva_11003_2
+  599  ./uva_11003_2 < in.txt
+  600  ./uva_11003_2 < in.txt > out.txt
+  601  ./uva_11003_2 < in.txt
+  602  make uva_11003_2
+  603  ./uva_11003_2 < in.txt
+  604  make uva_11003_2
+  605  ./uva_11003_2 < in.txt
+  606  make uva_11003_2
+  607  ./uva_11003_2 < in.txt
+  608  make uva_11003_2
+  609  ./uva_11003_2 < in.txt
+  610  make uva_11003_2
+  611  ./uva_11003_2 < in.txt
+  612  make uva_11003_2
+  613  ./uva_11003_2 < in.txt
+  614  cd Desktop/
+  615  cd cpp
+  616  ls -a
+  617  ulimit -aa
+  618  ulimit -a
+  619  ulimit -s 81920
+  620  ulimit -a
+  621  cd Desktop/
+  622  cd cpp
+  623  make uva_11003_2
+  624  ulimit -s 819200
+  625  ulimit -s 81920
+  626  ulimit -s 81920*5
+  627  ulimit -s 181920
+  628  ulimit -s 81920
+  629  make uva_11003_2
+  630  ./uva_11003_2 < in.txt > out.txt
+  631  cd Desktop/
+  632  cd cpp
+  633  make fishmonger
+  634  cd Desktop/
+  635  cd cpp
+  636  make uva_11517
+  637  ./uva_11517 < in.txt > out.txt
+  638  make uva_11517
+  639  ./uva_11517 < in.txt > out.txt
+  640  make uva_11517
+  641  ./uva_11517 < in.txt > out.txt
+  642  make uva_11517
+  643  ./uva_11517 < in.txt > out.txt
+  644  make uva_11517
+  645  ./uva_11517 < in.txt > out.txt
+  646  make uva_11517
+  647  ./uva_11517 < in.txt > out.txt
+  648  make uva_11517
+  649  ./uva_11517 < in.txt > out.txt
+  650  make uva_11517
+  651  ./uva_11517 < in.txt > out.txt
+  652  make uva_11517
+  653  ./uva_11517 < in.txt > out.txt
+  654  make uva_11517
+  655  ./uva_11517 < in.txt > out.txt
+  656  make uva_11517
+  657  ./uva_11517 < in.txt > out.txt
+  658  make uva_11517
+  659  ./uva_11517 < in.txt > out.txt
+  660  make uva_11517
+  661  ./uva_11517 < in.txt > out.txt
+  662  make uva_11517
+  663  ./uva_11517 < in.txt > out.txt
+  664  make uva_11517
+  665  ./uva_11517 < in.txt > out.txt
+  666  make uva_11517
+  667  ./uva_11517 < in.txt > out.txt
+  668  make uva_11517
+  669  ./uva_11517 < in.txt > out.txt
+  670  make uva_11517
+  671  ./uva_11517 < in.txt > out.txt
+  672  make uva_11517
+  673  ./uva_11517 < in.txt > out.txt
+  674  cd Desktop/
+  675  cd cpp
+  676  make uva
+  677  make uva_11517
+  678  ./uva_11517 < in.txt > out.txt
+  679  make uva_11517
+  680  ./uva_11517 < in.txt > out.txt
+  681  make uva_11517
+  682  ./uva_11517 < in.txt > out.txt
+  683  make uva_11517
+  684  ./uva_11517 < in.txt > out.txt
+  685  make uva_11517
+  686  ./uva_11517 < in.txt > out.txt
+  687  make uva_11517
+  688  ./uva_11517 < in.txt > out.txt
+  689  locate vector
+  690  locate vector | grep vector
+  691  cd Desktop/
+  692  cd cpp
+  693  make uva_459
+  694  ./uva_459 <in.txt
+  695  make uva_459
+  696  ./uva_459 <in.txt
+  697  make uva_459
+  698  ./uva_459 <in.txt
+  699  mysql
+  700  Mysql
+  701  man sql
+  702  sql
+  703  mySql
+  704  cd Desktop/
+  705  cd cpp
+  706  make uva_260
+  707  ./uva_260 < in.txt > out.txt
+  708  cd Desktop/
+  709  cd cpp
+  710  make uva_784
+  711  ./uva_784 < in.txt > out.txt
+  712  make uva_784
+  713  ./uva_784 < in.txt > out.txt
+  714  make uva_784
+  715  ./uva_784 < in.txt > out.txt
+  716  ./uva_784
+  717  cd Desktop/
+  718  cd cpp
+  719  ./uva_784 < in.txt > out.txt
+  720  make uva_784
+  721  ./uva_784 < in.txt > out.txt
+  722  ./uva_784 
+  723  nano uva_784
+  724  make uva_784
+  725  ./uva_784 < in.txt > out.txt
+  726  make uva_784
+  727  ./uva_784 < in.txt > out.txt
+  728  ./uva_784 
+  729  make uva_784
+  730  ./uva_784 < in.txt > out.txt
+  731  ./uva_784 
+  732  make uva_784
+  733  ls -l
+  734  df
+  735  usg
+  736  diskusg
+  737  dkctl
+  738  gnome -help
+  739  whatis w
+  740  whatis ls
+  741  who
+  742  whois
+  743  ps
+  744  which dpkg
+  745  which nano
+  746  whereis nano
+  747  nano commands.txt
+  748  tree -d
+  749  tree 
+  750  dpkg --search file vmlinuz
+  751  dpkg --search file gzip
+  752  find /-size +10M
+  753  find /-size vmlinuz +10M
+  754  find /-size +10M gzip
+  755  man -ln
+  756  man ln
+  757  pushd
+  758  which gzip
+  759  sudo service gdm stop
+  760  man gdm
+  761  man gnome
+  762  locate gnome
+  763  man lightdm
+  764  sudo service lightdm stop
+  765  sudo service lightdm 
+  766  man vmilnuz
+  767  locate vmlinuz
+  768  ls -l
+  769  ls -l -a
+  770  file commands
+  771  file command
+  772  file views
+  773  file Videos
+  774  file Commands
+  775  file Command
+  776  file commands.txt
+  777  users
+  778  userdel hadoop
+  779  users
+  780  du
+  781  man fasthalt
+  782  quota
+  783  whatis gdm
+  784  whatis lightdm
+  785  man lightdm
+  786  who
+  787  whoami
+  788  which
+  789  which lightdm
+  790  whereis lightdm
+  791  w
+  792  time
+  793  cal
+  794  bc
+  795  bc 2^10000000000000000000024
+  796  bc
+  797  dput
+  798  clear
+  799  last
+  800  w
+  801  echo -n rakesh | sha512sum
+  802  route -n
+  803  netstat
+  804  route -n
+  805  time
+  806  banner strange
+  807  touch
+  808  ed
+  809  finger -i
+  810  shutdown now
+  811  sudo shutdown now
+  812  cal
+  813  date
+  814  cal
+  815  date
+  816  bc
+  817  man bc
+  818  bc
+  819  echo "Hello"
+  820  echo 2*34
+  821  printf("hello")
+  822  printf("hello") ;
+  823  man printf
+  824  script
+  825  man script
+  826  passwd
+  827  who
+  828  whois
+  829  whois rsr1994
+  830  uname
+  831  w
+  832  shutdown now
+  833  sudo shutdown now
+  834  whereis gzip
+  835  which gzip
+  836  locate zip | grep bin
+  837  locate zip
+  838  shutdown now
+  839  halt
+  840  sudo halt
+  841  apt-get install gparted
+  842  sudo apt-get install gparted
+  843  sudo apt-get install mysql
+  844  mysql
+  845  man mysql
+  846  mysql
+  847  sudo mysql
+  848  cd Desktop/
+  849  cd new_BH/
+  850  history
+  851  python Main_script.py s.txt
+  852  python Main_script.py s.txt -h local
+  853  python Main_script.py s.txt -r local
+  854  histroy
+  855  dpkg --list | grep gcc
+  856  dpkg --list
+  857  sudo apt-get install python-numpy
+  858  history > p.txt
